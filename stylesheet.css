@@ -256,9 +256,3 @@ p {
     font-size: 32px;
     padding: 40px 80px;
   }
-
-@media (max-width: 1000px) {
-    section img {
-        width: 500px
-    }
-}
